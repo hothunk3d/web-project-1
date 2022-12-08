@@ -1,0 +1,528 @@
+Uri: http://bubblepointng.com/
+File Name: C:\Downloaded Web Sites\bubblepointng.com\index.htm
+Content Type: text/html
+
+Uri: http://bubblepointng.com/wp-content/uploads/2015/10/house-wire-model-fade-white-1-1500x1085.png
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\uploads\2015\10\house-wire-model-fade-white-1-1500x1085.png
+Content Type: image/png
+
+Uri: http://bubblepointng.com/wp-content/uploads/2015/10/surge-tank1.png
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\uploads\2015\10\surge-tank1.png
+Content Type: image/png
+
+Uri: http://bubblepointng.com/wp-content/uploads/2015/10/ssv1-1.png
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\uploads\2015\10\ssv1-1.png
+Content Type: image/png
+
+Uri: http://bubblepointng.com/wp-content/uploads/2015/10/burner-1.png
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\uploads\2015\10\burner-1.png
+Content Type: image/png
+
+Uri: http://bubblepointng.com/wp-content/uploads/2015/10/separator.jpg
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\uploads\2015\10\separator.jpg
+Content Type: image/jpeg
+
+Uri: http://bubblepointng.com/wp-content/uploads/2015/10/Choke.jpg
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\uploads\2015\10\Choke.jpg
+Content Type: image/jpeg
+
+Uri: http://bubblepointng.com/wp-content/uploads/2015/10/Elbows.jpg
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\uploads\2015\10\Elbows.jpg
+Content Type: image/jpeg
+
+Uri: http://bubblepointng.com/wp-content/themes/enfold347/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot?v=3
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\themes\enfold347\enfold\config-templatebuilder\avia-template-builder\assets\fonts\entypo-fontello.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://bubblepointng.com/wp-content/themes/enfold347/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff?v=3
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\themes\enfold347\enfold\config-templatebuilder\avia-template-builder\assets\fonts\entypo-fontello.woff
+Content Type: font/woff
+
+Uri: http://bubblepointng.com/wp-content/themes/enfold347/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.ttf?v=3
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\themes\enfold347\enfold\config-templatebuilder\avia-template-builder\assets\fonts\entypo-fontello.ttf
+Content Type: font/ttf
+
+Uri: http://bubblepointng.com/wp-content/themes/enfold347/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.svg?v=3
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\themes\enfold347\enfold\config-templatebuilder\avia-template-builder\assets\fonts\entypo-fontello.svg
+Content Type: image/svg+xml
+
+Uri: http://bubblepointng.com/wp-content/uploads/2016/12/bp-favicon.png
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\uploads\2016\12\bp-favicon.png
+Content Type: image/png
+
+Uri: http://bubblepointng.com/feed/
+File Name: C:\Downloaded Web Sites\bubblepointng.com\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://bubblepointng.com/comments/feed/
+File Name: C:\Downloaded Web Sites\bubblepointng.com\comments\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://fonts.googleapis.com/css?family=Metrophobic
+File Name: C:\Downloaded Web Sites\bubblepointng.com\css.css
+Content Type: text/css
+
+Uri: http://bubblepointng.com/wp-content/plugins/tickera/css/front.css?ver=3.2.4.8
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\plugins\tickera\css\front.css
+Content Type: text/css
+
+Uri: http://bubblepointng.com/wp-content/plugins/tickera/css/font-awesome.min.css?ver=3.2.4.8
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\plugins\tickera\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: http://bubblepointng.com/wp-content/themes/enfold347/enfold/css/grid.css?ver=2
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\themes\enfold347\enfold\css\grid.css
+Content Type: text/css
+
+Uri: http://bubblepointng.com/wp-content/themes/enfold347/enfold/css/base.css?ver=2
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\themes\enfold347\enfold\css\base.css
+Content Type: text/css
+
+Uri: http://bubblepointng.com/wp-content/themes/enfold347/enfold/css/layout.css?ver=2
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\themes\enfold347\enfold\css\layout.css
+Content Type: text/css
+
+Uri: http://bubblepointng.com/wp-content/themes/enfold347/enfold/css/shortcodes.css?ver=2
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\themes\enfold347\enfold\css\shortcodes.css
+Content Type: text/css
+
+Uri: http://bubblepointng.com/wp-content/themes/enfold347/enfold/js/aviapopup/magnific-popup.css?ver=1
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\themes\enfold347\enfold\js\aviapopup\magnific-popup.css
+Content Type: text/css
+
+Uri: http://bubblepointng.com/wp-content/themes/enfold347/enfold/js/mediaelement/skin-1/mediaelementplayer.css?ver=1
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\themes\enfold347\enfold\js\mediaelement\skin-1\mediaelementplayer.css
+Content Type: text/css
+
+Uri: http://bubblepointng.com/wp-content/themes/enfold347/enfold/css/print.css?ver=1
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\themes\enfold347\enfold\css\print.css
+Content Type: text/css
+
+Uri: http://bubblepointng.com/wp-content/uploads/dynamic_avia/enfold.css?ver=620672f88be20
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\uploads\dynamic_avia\enfold.css
+Content Type: text/css
+
+Uri: http://bubblepointng.com/wp-content/themes/enfold347/enfold/css/custom.css?ver=2
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\themes\enfold347\enfold\css\custom.css
+Content Type: text/css
+
+Uri: http://bubblepointng.com/wp-json/
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-json\index.htm.json
+Content Type: application/json
+
+Uri: http://bubblepointng.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fbubblepointng.com%2F
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-json\oembed\1.0\embed.json
+Content Type: application/json
+
+Uri: http://bubblepointng.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fbubblepointng.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-json\oembed\1.0\embed.xml
+Content Type: text/xml
+
+Uri: http://gmpg.org/xfn/11
+File Name: C:\Downloaded Web Sites\bubblepointng.com\xfn\11.html
+Content Type: text/html
+
+Uri: http://bubblepointng.com/products-services/
+File Name: C:\Downloaded Web Sites\bubblepointng.com\products-services\index.htm
+Content Type: text/html
+
+Uri: http://bubblepointng.com/equipment/
+File Name: C:\Downloaded Web Sites\bubblepointng.com\equipment\index.htm
+Content Type: text/html
+
+Uri: http://bubblepointng.com/safety-health-policy/
+File Name: C:\Downloaded Web Sites\bubblepointng.com\safety-health-policy\index.htm
+Content Type: text/html
+
+Uri: http://bubblepointng.com/about-us/
+File Name: C:\Downloaded Web Sites\bubblepointng.com\about-us\index.htm
+Content Type: text/html
+
+Uri: http://bubblepointng.com/?s=
+File Name: C:\Downloaded Web Sites\bubblepointng.com\index-1.htm
+Content Type: text/html
+
+Uri: http://bubblepointng.com/wp-content/plugins/form-maker/css/jquery-ui.custom.css?ver=1.12.10
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\plugins\form-maker\css\jquery-ui.custom.css
+Content Type: text/css
+
+Uri: http://bubblepointng.com/wp-content/plugins/form-maker/css/form_maker_frontend.css?ver=1.12.10
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\plugins\form-maker\css\form_maker_frontend.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans|Oswald|Droid+Sans|Lato|Open+Sans+Condensed|PT+Sans|Ubuntu|PT+Sans+Narrow|Yanone+Kaffeesatz|Roboto+Condensed|Source+Sans+Pro|Nunito|Francois+One|Roboto|Raleway|Arimo|Cuprum|Play|Dosis|Abel|Droid+Serif|Arvo|Lora|Rokkitt|PT+Serif|Bitter|Merriweather|Vollkorn|Cantata+One|Kreon|Josefin+Slab|Playfair+Display|Bree+Serif|Crimson+Text|Old+Standard+TT|Sanchez|Crete+Round|Cardo|Noticia+Text|Judson|Lobster|Unkempt|Changa+One|Special+Elite|Chewy|Comfortaa|Boogaloo|Fredoka+One|Luckiest+Guy|Cherry+Cream+Soda|Lobster+Two|Righteous|Squada+One|Black+Ops+One|Happy+Monkey|Passion+One|Nova+Square|Metamorphous|Poiret+One|Bevan|Shadows+Into+Light|The+Girl+Next+Door|Coming+Soon|Dancing+Script|Pacifico|Crafty+Girls|Calligraffitti|Rock+Salt|Amatic+SC|Leckerli+One|Tangerine|Reenie+Beanie|Satisfy|Gloria+Hallelujah|Permanent+Marker|Covered+By+Your+Grace|Walter+Turncoat|Patrick+Hand|Schoolbell|Indie+Flower&subset=greek,latin,greek-ext,vietnamese,cyrillic-ext,latin-ext,cyrillic
+File Name: C:\Downloaded Web Sites\bubblepointng.com\css-1.css
+Content Type: text/css
+
+Uri: http://bubblepointng.com/wp-content/plugins/form-maker/css/fm-animate.css?ver=1.12.10
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\plugins\form-maker\css\fm-animate.css
+Content Type: text/css
+
+Uri: http://bubblepointng.com/wp-includes/css/dashicons.min.css?ver=4.5.28
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-includes\css\dashicons.min.css
+Content Type: text/css
+
+Uri: http://bubblepointng.com/wp-includes/js/jquery/jquery.js?ver=1.12.4
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-includes\js\jquery\jquery.js
+Content Type: application/javascript
+
+Uri: http://bubblepointng.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: http://bubblepointng.com/wp-content/plugins/tickera/js/cart.js?ver=3.2.4.8
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\plugins\tickera\js\cart.js
+Content Type: application/javascript
+
+Uri: http://bubblepointng.com/wp-content/plugins/tickera/js/jquery.validate.min.js?ver=3.2.4.8
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\plugins\tickera\js\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: http://bubblepointng.com/wp-content/themes/enfold347/enfold/js/avia-compat.js?ver=2
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\themes\enfold347\enfold\js\avia-compat.js
+Content Type: application/javascript
+
+Uri: http://bubblepointng.com/wp-content/uploads/2016/12/bubble-new-300x70.png
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\uploads\2016\12\bubble-new-300x70.png
+Content Type: image/png
+
+Uri: http://bubblepointng.com/wp-content/uploads/2015/10/petroleum_engineer1-1280x630.jpg
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\uploads\2015\10\petroleum_engineer1-1280x630.jpg
+Content Type: image/jpeg
+
+Uri: http://bubblepointng.com/wp-content/uploads/2015/10/image-1030x563a.jpg
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\uploads\2015\10\image-1030x563a.jpg
+Content Type: image/jpeg
+
+Uri: http://bubblepointng.com/wp-content/uploads/2015/10/Data-Header-1-1200x630.jpg
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\uploads\2015\10\Data-Header-1-1200x630.jpg
+Content Type: image/jpeg
+
+Uri: http://bubblepointng.com/wp-content/uploads/2015/10/ssv.png
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\uploads\2015\10\ssv.png
+Content Type: image/png
+
+Uri: http://bubblepointng.com/wp-content/uploads/2015/10/facebooklink.png
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\uploads\2015\10\facebooklink.png
+Content Type: image/png
+
+Uri: http://bubblepointng.com/wp-content/uploads/2015/10/googlepls.png
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\uploads\2015\10\googlepls.png
+Content Type: image/png
+
+Uri: http://bubblepointng.com/wp-content/uploads/2015/10/linke.png
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\uploads\2015\10\linke.png
+Content Type: image/png
+
+Uri: http://bubblepointng.com/wp-content/uploads/2015/10/twitter.png
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\uploads\2015\10\twitter.png
+Content Type: image/png
+
+Uri: http://bubblepointng.com/wp-content/themes/enfold347/enfold/js/avia.js?ver=3
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\themes\enfold347\enfold\js\avia.js
+Content Type: application/javascript
+
+Uri: http://bubblepointng.com/wp-content/themes/enfold347/enfold/js/shortcodes.js?ver=3
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\themes\enfold347\enfold\js\shortcodes.js
+Content Type: application/javascript
+
+Uri: http://bubblepointng.com/wp-content/themes/enfold347/enfold/js/aviapopup/jquery.magnific-popup.min.js?ver=2
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\themes\enfold347\enfold\js\aviapopup\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: http://bubblepointng.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=2.18.1-a
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-includes\js\mediaelement\mediaelement-and-player.min.js
+Content Type: application/javascript
+
+Uri: http://bubblepointng.com/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=4.5.28
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-includes\js\mediaelement\wp-mediaelement.min.js
+Content Type: application/javascript
+
+Uri: http://bubblepointng.com/wp-includes/js/comment-reply.min.js?ver=4.5.28
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: http://bubblepointng.com/wp-includes/js/wp-embed.min.js?ver=4.5.28
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: http://maps.googleapis.com/maps/api/js?v=3.exp&key= AIzaSyD7HBilRLXDn99IbWOH5-l3n2erqBntjx0
+File Name: C:\Downloaded Web Sites\bubblepointng.com\maps\api\js
+Content Type: text/javascript
+
+Uri: http://bubblepointng.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-includes\js\jquery\ui\widget.min.js
+Content Type: application/javascript
+
+Uri: http://bubblepointng.com/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.4
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-includes\js\jquery\ui\effect.min.js
+Content Type: application/javascript
+
+Uri: http://bubblepointng.com/wp-includes/js/jquery/ui/effect-shake.min.js?ver=1.11.4
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-includes\js\jquery\ui\effect-shake.min.js
+Content Type: application/javascript
+
+Uri: http://bubblepointng.com/wp-content/plugins/form-maker/js/main_div_front_end.js?ver=1.12.10
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\plugins\form-maker\js\main_div_front_end.js
+Content Type: application/javascript
+
+Uri: http://bubblepointng.com/wp-content/uploads/2015/10/hand.jpg
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\uploads\2015\10\hand.jpg
+Content Type: image/jpeg
+
+Uri: http://bubblepointng.com/wp-content/uploads/2015/10/hand-300x201.jpg
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\uploads\2015\10\hand-300x201.jpg
+Content Type: image/jpeg
+
+Uri: http://bubblepointng.com/wp-content/uploads/2015/10/hand-450x301.jpg
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\uploads\2015\10\hand-450x301.jpg
+Content Type: image/jpeg
+
+Uri: http://bubblepointng.com/wp-content/plugins/tickera/fonts/fontawesome-webfont.eot?v=4.3.0
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\plugins\tickera\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://bubblepointng.com/wp-content/plugins/tickera/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\plugins\tickera\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://bubblepointng.com/wp-content/plugins/tickera/fonts/fontawesome-webfont.woff2?v=4.3.0
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\plugins\tickera\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: http://bubblepointng.com/wp-content/plugins/tickera/fonts/fontawesome-webfont.woff?v=4.3.0
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\plugins\tickera\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: http://bubblepointng.com/wp-content/plugins/tickera/fonts/fontawesome-webfont.ttf?v=4.3.0
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\plugins\tickera\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: http://bubblepointng.com/wp-content/plugins/tickera/fonts/fontawesome-webfont.svg?v=4.3.0
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\plugins\tickera\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://bubblepointng.com/wp-content/themes/enfold347/enfold/images/layout/loading.gif
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\themes\enfold347\enfold\images\layout\loading.gif
+Content Type: image/gif
+
+Uri: http://bubblepointng.com/wp-content/themes/enfold347/enfold/images/layout/preload-dark-big.gif
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\themes\enfold347\enfold\images\layout\preload-dark-big.gif
+Content Type: image/gif
+
+Uri: http://bubblepointng.com/wp-content/themes/enfold347/enfold/images/layout/preload-dark-grey-big.gif
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\themes\enfold347\enfold\images\layout\preload-dark-grey-big.gif
+Content Type: image/gif
+
+Uri: http://bubblepointng.com/wp-content/themes/enfold347/enfold/js/mediaelement/skin-1/background.png
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\themes\enfold347\enfold\js\mediaelement\skin-1\background.png
+Content Type: image/png
+
+Uri: http://bubblepointng.com/wp-content/themes/enfold347/enfold/js/mediaelement/skin-1/sep.png
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\themes\enfold347\enfold\js\mediaelement\skin-1\sep.png
+Content Type: image/png
+
+Uri: http://bubblepointng.com/wp-content/themes/enfold347/enfold/js/mediaelement/skin-1/controls.png
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\themes\enfold347\enfold\js\mediaelement\skin-1\controls.png
+Content Type: image/png
+
+Uri: https://dribbble.com/kriesi
+File Name: C:\Downloaded Web Sites\bubblepointng.com\kriesi.html
+Content Type: text/html
+
+Uri: http://bubblepointng.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fbubblepointng.com%2Fproducts-services%2F
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-json\oembed\1.0\embed-1.json
+Content Type: application/json
+
+Uri: http://bubblepointng.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fbubblepointng.com%2Fproducts-services%2F&format=xml
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-json\oembed\1.0\embed-1.xml
+Content Type: text/xml
+
+Uri: http://bubblepointng.com/products-services/?s=
+File Name: C:\Downloaded Web Sites\bubblepointng.com\products-services\index-1.htm
+Content Type: text/html
+
+Uri: http://bubblepointng.com/wp-content/uploads/2015/10/petroleum_engineer1-1030x563-1.jpg
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\uploads\2015\10\petroleum_engineer1-1030x563-1.jpg
+Content Type: image/jpeg
+
+Uri: http://bubblepointng.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fbubblepointng.com%2Fequipment%2F
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-json\oembed\1.0\embed-2.json
+Content Type: application/json
+
+Uri: http://bubblepointng.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fbubblepointng.com%2Fequipment%2F&format=xml
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-json\oembed\1.0\embed-2.xml
+Content Type: text/xml
+
+Uri: http://bubblepointng.com/equipment/?s=
+File Name: C:\Downloaded Web Sites\bubblepointng.com\equipment\index-1.htm
+Content Type: text/html
+
+Uri: http://bubblepointng.com/wp-content/uploads/2016/12/burner-1.png
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\uploads\2016\12\burner-1.png
+Content Type: image/png
+
+Uri: http://bubblepointng.com/wp-content/uploads/2015/10/separator-300x161.jpg
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\uploads\2015\10\separator-300x161.jpg
+Content Type: image/jpeg
+
+Uri: http://bubblepointng.com/wp-content/uploads/2016/12/tcp_bubblepoint-495x352.jpg
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\uploads\2016\12\tcp_bubblepoint-495x352.jpg
+Content Type: image/jpeg
+
+Uri: http://bubblepointng.com/wp-content/uploads/2016/12/perforating-495x350.jpg
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\uploads\2016\12\perforating-495x350.jpg
+Content Type: image/jpeg
+
+Uri: http://bubblepointng.com/wp-content/uploads/2016/12/spark1.jpg
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\uploads\2016\12\spark1.jpg
+Content Type: image/jpeg
+
+Uri: http://bubblepointng.com/wp-content/uploads/2016/12/5-300x274.jpg
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\uploads\2016\12\5-300x274.jpg
+Content Type: image/jpeg
+
+Uri: http://bubblepointng.com/wp-content/uploads/2016/12/4.jpg
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\uploads\2016\12\4.jpg
+Content Type: image/jpeg
+
+Uri: http://bubblepointng.com/wp-content/uploads/2015/10/Separator-291x300.png
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\uploads\2015\10\Separator-291x300.png
+Content Type: image/png
+
+Uri: http://bubblepointng.com/wp-content/uploads/2015/10/Separator-36x36.png
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\uploads\2015\10\Separator-36x36.png
+Content Type: image/png
+
+Uri: http://bubblepointng.com/wp-content/uploads/2015/10/Separator.png
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\uploads\2015\10\Separator.png
+Content Type: image/png
+
+Uri: http://bubblepointng.com/wp-content/uploads/2016/12/pipes1-291x300.png
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\uploads\2016\12\pipes1-291x300.png
+Content Type: image/png
+
+Uri: http://bubblepointng.com/wp-content/uploads/2016/12/pipes1-36x36.png
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\uploads\2016\12\pipes1-36x36.png
+Content Type: image/png
+
+Uri: http://bubblepointng.com/wp-content/uploads/2016/12/pipes1.png
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\uploads\2016\12\pipes1.png
+Content Type: image/png
+
+Uri: http://bubblepointng.com/wp-content/uploads/2016/12/surge-tank1-291x300.jpg
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\uploads\2016\12\surge-tank1-291x300.jpg
+Content Type: image/jpeg
+
+Uri: http://bubblepointng.com/wp-content/uploads/2016/12/surge-tank1-36x36.jpg
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\uploads\2016\12\surge-tank1-36x36.jpg
+Content Type: image/jpeg
+
+Uri: http://bubblepointng.com/wp-content/uploads/2016/12/surge-tank1.jpg
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\uploads\2016\12\surge-tank1.jpg
+Content Type: image/jpeg
+
+Uri: http://bubblepointng.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fbubblepointng.com%2Fsafety-health-policy%2F
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-json\oembed\1.0\embed-3.json
+Content Type: application/json
+
+Uri: http://bubblepointng.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fbubblepointng.com%2Fsafety-health-policy%2F&format=xml
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-json\oembed\1.0\embed-3.xml
+Content Type: text/xml
+
+Uri: http://bubblepointng.com/safety-health-policy/?s=
+File Name: C:\Downloaded Web Sites\bubblepointng.com\safety-health-policy\index-1.htm
+Content Type: text/html
+
+Uri: http://bubblepointng.com/wp-content/uploads/2016/11/safety.jpg
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\uploads\2016\11\safety.jpg
+Content Type: image/jpeg
+
+Uri: http://bubblepointng.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fbubblepointng.com%2Fabout-us%2F
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-json\oembed\1.0\embed-4.json
+Content Type: application/json
+
+Uri: http://bubblepointng.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fbubblepointng.com%2Fabout-us%2F&format=xml
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-json\oembed\1.0\embed-4.xml
+Content Type: text/xml
+
+Uri: http://bubblepointng.com/about-us/?s=
+File Name: C:\Downloaded Web Sites\bubblepointng.com\about-us\index-1.htm
+Content Type: text/html
+
+Uri: http://bubblepointng.com/wp-content/uploads/2015/10/Our-Mission-300x169.jpg
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\uploads\2015\10\Our-Mission-300x169.jpg
+Content Type: image/jpeg
+
+Uri: http://bubblepointng.com/wp-content/uploads/2015/10/bubble-aboutpage.jpg
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\uploads\2015\10\bubble-aboutpage.jpg
+Content Type: image/jpeg
+
+Uri: http://bubblepointng.com/wp-content/uploads/2015/10/bubble-aboutpage-300x225.jpg
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\uploads\2015\10\bubble-aboutpage-300x225.jpg
+Content Type: image/jpeg
+
+Uri: http://bubblepointng.com/wp-content/uploads/2015/10/bubble-aboutpage-450x338.jpg
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\uploads\2015\10\bubble-aboutpage-450x338.jpg
+Content Type: image/jpeg
+
+Uri: http://bubblepointng.com/wp-content/uploads/2015/10/Our-Mission-768x432.jpg
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\uploads\2015\10\Our-Mission-768x432.jpg
+Content Type: image/jpeg
+
+Uri: http://bubblepointng.com/wp-content/uploads/2015/10/Our-Mission-1030x579.jpg
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\uploads\2015\10\Our-Mission-1030x579.jpg
+Content Type: image/jpeg
+
+Uri: http://bubblepointng.com/wp-content/uploads/2015/10/Our-Mission-705x397.jpg
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\uploads\2015\10\Our-Mission-705x397.jpg
+Content Type: image/jpeg
+
+Uri: http://bubblepointng.com/wp-content/uploads/2015/10/Our-Mission-450x253.jpg
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\uploads\2015\10\Our-Mission-450x253.jpg
+Content Type: image/jpeg
+
+Uri: http://bubblepointng.com/wp-content/uploads/2015/10/Our-Mission.jpg
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\uploads\2015\10\Our-Mission.jpg
+Content Type: image/jpeg
+
+Uri: http://bubblepointng.com/search/feed/rss2/
+File Name: C:\Downloaded Web Sites\bubblepointng.com\search\feed\rss2\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://bubblepointng.com/wp-content/plugins/form-maker/css/images/ui-bg_glass_100_f6f6f6_1x400.png
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\plugins\form-maker\css\images\ui-bg_glass_100_f6f6f6_1x400.png
+Content Type: image/png
+
+Uri: http://bubblepointng.com/wp-content/plugins/form-maker/css/images/ui-icons_222222_256x240.png
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\plugins\form-maker\css\images\ui-icons_222222_256x240.png
+Content Type: image/png
+
+Uri: http://bubblepointng.com/wp-content/plugins/form-maker/css/images/ui-icons_ffffff_256x240.png
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\plugins\form-maker\css\images\ui-icons_ffffff_256x240.png
+Content Type: image/png
+
+Uri: http://bubblepointng.com/wp-content/plugins/form-maker/css/images/ui-icons_ef8c08_256x240.png
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\plugins\form-maker\css\images\ui-icons_ef8c08_256x240.png
+Content Type: image/png
+
+Uri: http://bubblepointng.com/wp-content/plugins/form-maker/css/images/ui-icons_228ef1_256x240.png
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\plugins\form-maker\css\images\ui-icons_228ef1_256x240.png
+Content Type: image/png
+
+Uri: http://bubblepointng.com/wp-content/plugins/form-maker/images/refresh_black.png
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-content\plugins\form-maker\images\refresh_black.png
+Content Type: image/png
+
+Uri: http://bubblepointng.com/wp-includes/fonts/dashicons.eot
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-includes\fonts\dashicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://bubblepointng.com/wp-includes/fonts/dashicons.ttf
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-includes\fonts\dashicons.ttf
+Content Type: font/ttf
+
+Uri: http://bubblepointng.com/wp-includes/fonts/dashicons.svg
+File Name: C:\Downloaded Web Sites\bubblepointng.com\wp-includes\fonts\dashicons.svg
+Content Type: image/svg+xml
+
