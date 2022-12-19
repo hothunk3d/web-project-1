@@ -26,6 +26,10 @@ body .av-align-center{text-align: center;}
 
 #top .av_opacity_variation{opacity: 0.7;}
 
+.touch_up_color{
+  color:#000000;
+}
+
 /* ======================================================================================================================================================
 TEXT BLOCK
 ====================================================================================================================================================== */
@@ -3745,6 +3749,8 @@ animation:         caption-top  1.2s 1 ease-out;
 		.responsive #top .slideshow_caption {left: 0; width:100%; padding:0;}
 		.responsive #top .slideshow_caption h2{font-size: 20px !important;}
 		.responsive #top .slideshow_caption .avia-caption-content{font-size: 13px !important;}
+    
+    .touch-up{display:none;}
 
 /* 		.responsive .av_slideshow_full .container.caption_container { margin-left: -138px; } */
 
@@ -4384,6 +4390,15 @@ Share Box
 
 .av-social-sharing-box .av-share-box{margin:0;}
 .av-social-sharing-box-minimal .av-share-box ul{border:none;}
+
+/* ======================================================================================================================================================
+Contact allignment
+====================================================================================================================================================== */
+
+
+#new_alignment{
+  margin: 0px; padding: 0px; display: inline-block; position: relative; overflow: hidden;
+}
 
 /* ======================================================================================================================================================
 ANIMATIONS

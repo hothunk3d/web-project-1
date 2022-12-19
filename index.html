@@ -188,7 +188,7 @@
 									</li>
 									<li id="menu-item-240"
 										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-6">
-										<a href="http://donlaw4cs.com/contact/" itemprop="url"><span
+										<a href="https://donlaw4cs.com/contact/contact.html" itemprop="url"><span
 												class="avia-bullet"></span><span
 												class="avia-menu-text">CONTACT</span><span class="avia-menu-fx"><span
 													class="avia-arrow-wrap"><span
@@ -274,13 +274,15 @@
 																jobs<br>Feel free to contact us</p>
 														</div>
 													</div>
-													<a href='http://'
-														class='avia-slideshow-button avia-button avia-color-blue avia-multi-slideshow-button'
-														data-duration='800' data-easing='easeInOutQuad'>Contact Us</a>
-													<a href='http://'
-														class='avia-slideshow-button avia-button avia-color-theme-color avia-multi-slideshow-button avia-slideshow-button-2'
-														data-duration='800' data-easing='easeInOutQuad'>Request A
-														Qoute</a>
+													<div class='slideshow_call_to_action'>
+														<a href='https://donlaw4cs.com/contact/contact.html'
+															class='avia-slideshow-button avia-button avia-color-blue avia-multi-slideshow-button'
+															data-duration='800' data-easing='easeInOutQuad'>Contact Us</a>
+														<a href='https://donlaw4cs.com/contact/contact.html'
+															class='avia-slideshow-button avia-button avia-color-theme-color avia-multi-slideshow-button avia-slideshow-button-2'
+															data-duration='800' data-easing='easeInOutQuad'>Request A
+															Qoute</a>
+													</div>
 												</div>
 											</div>
 										</div>
@@ -348,25 +350,14 @@
 									style='border-radius:0px; '>
 									<section class="av_textblock_section" itemscope="itemscope"
 										itemtype="https://schema.org/CreativeWork">
-										<div class='avia_textblock  av_inherit_color' style='color:#000000; '
+										<div class='avia_textblock  touch_up_color'
 											itemprop="text">
-											<h2 style="text-align: center;"><strong>Donlaw4cs Resources, Port
+											<h2 style="text-align: center;"><strong>Donlaw4c's Resources, Port
 													Harcourt</strong></h2>
+											
 										</div>
 									</section>
-									<div style=' margin-top:4px; margin-bottom:2px;'
-										class='hr hr-custom hr-center hr-icon-yes  avia-builder-el-4  el_after_av_textblock  el_before_av_textblock '>
-										<span class='hr-inner   inner-border-av-border-thin' style=' width:20px;'>
-											<span class='hr-inner-style'>
-											</span>
-										</span>
-										<span class='av-seperator-icon' aria-hidden='true' data-av_icon=''
-											data-av_iconfont='entypo-fontello'>
-										</span>
-										<span class='hr-inner   inner-border-av-border-thin' style=' width:20px;'>
-											<span class='hr-inner-style'></span>
-										</span>
-									</div>
+									
 									<section class="av_textblock_section" itemscope="itemscope"
 										itemtype="https://schema.org/CreativeWork">
 										<div class='avia_textblock ' itemprop="text" >
@@ -914,7 +905,8 @@
 				</div>
 				<!--end builder template-->
 			</div>
-			<footer>
+				
+		</div><footer>
 			<!-- close default .container_wrap element -->
 			<div class='container_wrap footer_color' id='footer'>
 				<div class='container'>
@@ -986,55 +978,73 @@ window.initMap = initMap;
 							<div class="textwidget">
 								<div role="form" class="wpcf7" id="wpcf7-f293-o1" lang="en-US" dir="ltr">
 									<div class="screen-reader-response"></div>
-									<form action="/#wpcf7-f293-o1" method="post" class="wpcf7-form"
-										novalidate="novalidate">
-										<div style="display: none;">
-											<input type="hidden" name="_wpcf7" value="293">
-											<input type="hidden" name="_wpcf7_version" value="4.5.1">
-											<input type="hidden" name="_wpcf7_locale" value="en_US">
-											<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f293-o1">
-											<input type="hidden" name="_wpnonce" value="ff5be61b51">
-										</div>
-										<div class="column one-second">
-											<span class="wpcf7-form-control-wrap your-name"><input type="text"
+									<form onsubmit="sendEmail(); reset(); return false;"  class="wpcf7-form"
+										>
+										
+										
+											
+										<input type="text" id='name'
 													name="your-name" value="" size="40"
 													class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
 													aria-required="true" aria-invalid="false"
-													placeholder="Your Name" /></span>
-										</div>
-										<div class="column one-second">
-											<span class="wpcf7-form-control-wrap your-tel"><input type="tel"
+													placeholder="Your Name" required>
+											
+										
+										<input type="tel" id='phone'
 													name="your-tel" value="" size="40"
 													class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel"
 													aria-required="true" aria-invalid="false"
-													placeholder="Your Phone Number" /></span>
-										</div>
-										<div class="column one">
-											<span class="wpcf7-form-control-wrap your-email"><input type="email"
+													placeholder="Your Phone Number" required>
+										<input type="email" id='email'
 													name="your-email" value="" size="40"
 													class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email"
 													aria-required="true" aria-invalid="false"
-													placeholder="Your E-mail" /></span>
-										</div>
-										<div class="column one">
-											<span class="wpcf7-form-control-wrap subject"><input type="text"
+													placeholder="Your E-mail" required>
+										<input type="text" id='subject'
 													name="subject" value="" size="40"
 													class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
 													aria-required="true" aria-invalid="false"
-													placeholder="Subject" /></span>
-										</div>
-										<div class="column one">
-											<span class="wpcf7-form-control-wrap your-message"><input type="text"
+													placeholder="Subject" required>
+										<textarea id='message' type="text"
 													name="your-message" value="" size="40"
 													class="wpcf7-form-control wpcf7-text" aria-invalid="false"
-													placeholder="Type Message" /></span>
-										</div>
-										<div class="column one">
+													placeholder="Type Message"></textarea>
+										
 											<input type="submit" value="SEND" class="wpcf7-form-control wpcf7-submit" />
-										</div>
+										
 										<div class="wpcf7-response-output wpcf7-display-none"></div>
 									</form>
 								</div>
+								<script src="https://smtpjs.com/v3/smtp.js"></script>
+									<script>
+										function sendEmail(){
+											let name = document.getElementById("name").value;
+											let email = document.getElementById("email").value;
+											let phone = document.getElementById("phone").value;
+											let subject = document.getElementById("subject").value;
+											let message = document.getElementById("message").value;
+
+
+
+											Email.send({
+												Host : "smtp.elasticemail.com",
+												Username : "emmanuelnwaogu2018@gmail.com",
+												Password : "DC29F836CC51EBB16B31B41F41CC2C16A9EC",
+												To : 'hothunk3d@gmail.com',
+												From : "emmanuelnwaogu2018@gmail.com",
+												Subject : "New Message from DONLAW4C'S RESOURCE",
+												Body : 'Name: ' + name + 
+												'<br/> User Email: ' + email + '<br/> Contact Number: ' + phone + 
+												'<br/> Subject: ' + subject +
+												'<br/> Message: ' + message
+											}).then(
+											message => alert('Message Sent Successfully')
+											);
+										}
+									</script>
+
+									
+
 								Our Social Media<br>
 								<a href="#"> <img class="alignnone size-full wp-image-356"
 										src="wp-content/uploads/2015/10/facebooklink.png" alt="facebooklink" width="27"
@@ -1057,17 +1067,17 @@ window.initMap = initMap;
 			</div>
 
 
-			<footer class='container_wrap socket_color' id='socket' role="contentinfo" itemscope="itemscope"
+			<section class='container_wrap socket_color' id='socket' role="contentinfo" itemscope="itemscope"
 				itemtype="https://schema.org/WPFooter">
 				<div class='container'>
 					<span class='copyright'>&copy; 2021-2022 - Donlaw4c's Resources- All rights reserved</span>
 				</div>
 
 				<!-- ####### END SOCKET CONTAINER ####### -->
-			</footer>
+			</section>
 
 			<!-- end main -->
-		</div>
+			</footer>
 
 		<!-- end wrap_all -->
 	</div>
