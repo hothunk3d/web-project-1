@@ -192,7 +192,7 @@ Updates: disabled
 														class="avia-arrow"></span></span></span></a></li>
 									<li id="menu-item-240"
 										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-6">
-										<a href="https://donlaw4cs.com/contact/contact.html" itemprop="url"><span
+										<a href="../contact/contact.html" itemprop="url"><span
 												class="avia-bullet"></span><span
 												class="avia-menu-text">CONTACT</span><span class="avia-menu-fx"><span
 													class="avia-arrow-wrap"><span
@@ -362,55 +362,62 @@ Updates: disabled
 							<div class="textwidget">
 								<div role="form" class="wpcf7" id="wpcf7-f293-o1" lang="en-US" dir="ltr">
 									<div class="screen-reader-response"></div>
-									<form action="/products-services/#wpcf7-f293-o1" method="post" class="wpcf7-form"
-										novalidate="novalidate">
-										<div style="display: none;">
-											<input type="hidden" name="_wpcf7" value="293">
-											<input type="hidden" name="_wpcf7_version" value="4.5.1">
-											<input type="hidden" name="_wpcf7_locale" value="en_US">
-											<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f293-o1">
-											<input type="hidden" name="_wpnonce" value="ff5be61b51">
-										</div>
-										<div class="column one-second">
-											<span class="wpcf7-form-control-wrap your-name"><input type="text"
-													name="your-name" value="" size="40"
-													class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
-													aria-required="true" aria-invalid="false"
-													placeholder="Your Name" /></span>
-										</div>
-										<div class="column one-second">
-											<span class="wpcf7-form-control-wrap your-tel"><input type="tel"
-													name="your-tel" value="" size="40"
-													class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel"
-													aria-required="true" aria-invalid="false"
-													placeholder="Your Phone Number" /></span>
-										</div>
-										<div class="column one">
-											<span class="wpcf7-form-control-wrap your-email"><input type="email"
-													name="your-email" value="" size="40"
-													class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email"
-													aria-required="true" aria-invalid="false"
-													placeholder="Your E-mail" /></span>
-										</div>
-										<div class="column one">
-											<span class="wpcf7-form-control-wrap subject"><input type="text"
-													name="subject" value="" size="40"
-													class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
-													aria-required="true" aria-invalid="false"
-													placeholder="Subject" /></span>
-										</div>
-										<div class="column one">
-											<span class="wpcf7-form-control-wrap your-message"><input type="text"
-													name="your-message" value="" size="40"
-													class="wpcf7-form-control wpcf7-text" aria-invalid="false"
-													placeholder="Type Message" /></span>
-										</div>
-										<div class="column one">
-											<input type="submit" value="SEND" class="wpcf7-form-control wpcf7-submit" />
-										</div>
+									<form onsubmit="sendEmail(); reset(); return false;" class="wpcf7-form" method="post">
+
+
+
+										<input type="text" id='name' name="your-name" value="" size="40"
+											class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
+											aria-required="true" aria-invalid="false" placeholder="Your Name" required>
+
+
+										<input type="tel" id='phone' name="your-tel" value="" size="40"
+											class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel"
+											aria-required="true" aria-invalid="false" placeholder="Your Phone Number"
+											required>
+										<input type="email" id='email' name="your-email" value="" size="40"
+											class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email"
+											aria-required="true" aria-invalid="false" placeholder="Your E-mail"
+											required>
+										<input type="text" id='subject' name="subject" value="" size="40"
+											class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
+											aria-required="true" aria-invalid="false" placeholder="Subject" required>
+										<textarea id='message' type="text" name="your-message" value="" size="40"
+											class="wpcf7-form-control wpcf7-text" aria-invalid="false"
+											placeholder="Type Message"></textarea>
+
+										<input type="submit" value="SEND" class="wpcf7-form-control wpcf7-submit" />
+
 										<div class="wpcf7-response-output wpcf7-display-none"></div>
 									</form>
 								</div>
+
+								<script src="https://smtpjs.com/v3/smtp.js"></script>
+									<script>
+										function sendEmail(){
+											let name = document.getElementById("name").value;
+											let email = document.getElementById("email").value;
+											let phone = document.getElementById("phone").value;
+											let subject = document.getElementById("subject").value;
+											let message = document.getElementById("message").value;
+
+
+
+											Email.send({
+												SecurityToken : "53128afd-c2b3-4b0b-a886-d9eafb3413d1",
+												To : 'hothunk3d@gmail.com',
+												From : "emmanuelnwaogu2018@gmail.com",
+												Subject : "New Message from DONLAW4C'S RESOURCE",
+												Body : 'Name: ' + name + 
+												'<br/> User Email: ' + email + '<br/> Contact Number: ' + phone + 
+												'<br/> Subject: ' + subject +
+												'<br/> Message: ' + message
+											}).then(
+											message => alert('Message Sent Successfully')
+											);
+										}
+									</script>
+
 								Our Social Media<br>
 								<a href="#"> <img class="alignnone size-full wp-image-356"
 										src="../wp-content/uploads/2015/10/facebooklink.png" alt="facebooklink"
@@ -455,7 +462,7 @@ Updates: disabled
 		<!-- end wrap_all -->
 	</div>
 
-
+	
 	
 
 	<link rel='stylesheet' id='fm-jquery-ui-css'
